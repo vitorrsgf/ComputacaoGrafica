@@ -1,0 +1,1 @@
+# Este é um projeto de faculdade, para a disciplina de Computação Gráfica, na Universidade de Fortaleza.
