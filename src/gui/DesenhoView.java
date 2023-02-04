@@ -10,10 +10,7 @@ public class DesenhoView extends JFrame {
 		setSize(500, 500);
 		
 		JDesenho panel = new JDesenho();
-		//panel.setSize(500, 500);
-		//panel.setBounds(0, 5, 484, 500);
-		//panel.setBounds(74, 72, 98, -41);
-		//getContentPane().add(panel);
+
 		setContentPane(panel);
 	}
 	
